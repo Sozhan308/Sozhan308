@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 <p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan-86335748" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">👋 Hi there! I'm a DevOps Engineer with a passion for streamlining CI/CD workflows and automating tasks using Python. My journey in tech has equipped me with a strong foundation in continuous integration, continuous deployment (CI/CD), and cloud infrastructure management.
-
-🔍 I have a keen interest in Artificial Intelligence and Machine Learning, where I enjoy exploring innovative solutions and leveraging data to drive impactful insights. I believe that data is the new oil, and I thrive on discovering patterns and trends that can lead to better decision-making.
-
+ 
 💡 In my free time, I love to tinker with various automation tools and work on personal projects that allow me to experiment with new technologies and methodologies. I'm always eager to learn and stay up-to-date with the latest trends in the tech world.
 
 📫 Feel free to connect with me or check out my repositories to see what I'm working on!</h3>**
