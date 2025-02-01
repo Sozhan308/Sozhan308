@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 ![Profile views](https://komarev.com/ghpvc/?username=Sozhan308&label=Profile%20views&color=0e75b6&style=flat)
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan-86335748" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<!-- <a align="center" href="sozhan308@gmail.com"><img align="center" src="https://camo.githubusercontent.com/7625fb2f936160a789b29a32fa800fb8d0d4318b04765c428e9861e4d8191503/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67" alt="sozhan308" height="30" width="40"></a></p> -->
+<p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan-86335748" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 - 💼 I’m currently working as a **Senior DevOps Engineer** at [Bosch](https://github.com/bosch)
 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sozhan308&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-<!--   <img width="48%" src="https://streak-stats.demolab.com/?user=sozhan308&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" /> Streak card is temporarily disabled -->
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sozhan308&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
