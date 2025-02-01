@@ -56,9 +56,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Contributed PR [#1954](https://github.com/open-telemetry/opentelemetry-demo/pull/1954) in [learntocloud/linux-ctfs](https://github.com/open-telemetry/opentelemetry-demo)
-2. 🗣 Contributed PR [#1832](https://github.com/open-telemetry/opentelemetry-demo/pull/1832) in [learntocloud/linux-ctfs](https://github.com/open-telemetry/opentelemetry-demo)
-3. 🗣 Contributed PR [#1842](https://github.com/open-telemetry/opentelemetry-demo/pull/1842) in [learntocloud/linux-ctfs](https://github.com/open-telemetry/opentelemetry-demo)
+1. 🗣 Contributed PR [#1954](https://github.com/open-telemetry/opentelemetry-demo/pull/1954) in [opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo)
+2. 🗣 Contributed PR [#1832](https://github.com/open-telemetry/opentelemetry-demo/pull/1832) in [opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo)
+3. 🗣 Contributed PR [#1842](https://github.com/open-telemetry/opentelemetry-demo/pull/1842) in [opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo)
 <!--4. 🔒 Closed issue [#19](https://github.com/learntocloud/linux-ctfs/issues/19) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
 5. 🔒 Closed issue [#12](https://github.com/learntocloud/linux-ctfs/issues/12) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)-->
 <!--END_SECTION:activity-->
