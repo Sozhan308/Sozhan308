@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Profile views](https://komarev.com/ghpvc/?username=Sozhan308&label=Profile%20views&color=0e75b6&style=flat)
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan-86335748" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 - 💼 I’m currently working as a **Senior DevOps Engineer** at [Bosch](https://github.com/bosch)
 
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about: **💡 Python, Docker, Kubernetes, Jenkins, Terraform, AWS**
 
 - ⚡ Fun fact: **🎢 I once debugged an issue while I was in a dream**
+
+---
 
  **<h3 align="left">Skills</h3>**
 
@@ -42,7 +44,9 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/Sozhan308/Sozhan308/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sozhan308/Sozhan308/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Sozhan308/Sozhan308/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sozhan308/Sozhan308/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sozhan308&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Sozhan308&theme=ads-juicy-fresh)](https://git.io/streak-stats) -->
+
 <!--
 For future use
 <a href="https://www.instagram.com/hemant.gz/">
