@@ -61,9 +61,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3612](https://github.com/eclipse-jkube/jkube/issues/3612#issuecomment-2629292106) in [eclipse-jkube/jkube](https://github.com/eclipse-jkube/jkube)
-2. 💪 Opened PR [#3655](https://github.com/eclipse-jkube/jkube/pull/3655) in [eclipse-jkube/jkube](https://github.com/eclipse-jkube/jkube)
-3. 💪 Opened PR [#1954](https://github.com/open-telemetry/opentelemetry-demo/pull/1954) in [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo)
+1. 💪 Opened PR [#716](https://github.com/langroid/langroid/pull/716) in [langroid/langroid](https://github.com/langroid/langroid)
+2. 🗣 Commented on [#713](https://github.com/langroid/langroid/issues/713#issuecomment-2631333401) in [langroid/langroid](https://github.com/langroid/langroid)
+3. 🗣 Commented on [#3612](https://github.com/eclipse-jkube/jkube/issues/3612#issuecomment-2629292106) in [eclipse-jkube/jkube](https://github.com/eclipse-jkube/jkube)
 <!--END_SECTION:activity-->
 
 <br/>
