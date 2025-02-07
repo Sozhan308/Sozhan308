@@ -61,9 +61,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#716](https://github.com/langroid/langroid/pull/716) in [langroid/langroid](https://github.com/langroid/langroid)
-2. 🗣 Commented on [#713](https://github.com/langroid/langroid/issues/713#issuecomment-2631333401) in [langroid/langroid](https://github.com/langroid/langroid)
-3. 🗣 Commented on [#3612](https://github.com/eclipse-jkube/jkube/issues/3612#issuecomment-2629292106) in [eclipse-jkube/jkube](https://github.com/eclipse-jkube/jkube)
+1. 💪 Opened PR [#62](https://github.com/GoogleCloudPlatform/khi/pull/62) in [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi)
+2. 🗣 Commented on [#716](https://github.com/langroid/langroid/pull/716#issuecomment-2637043965) in [langroid/langroid](https://github.com/langroid/langroid)
+3. 🗣 Commented on [#713](https://github.com/langroid/langroid/issues/713#issuecomment-2634781436) in [langroid/langroid](https://github.com/langroid/langroid)
 <!--END_SECTION:activity-->
 
 <br/>
