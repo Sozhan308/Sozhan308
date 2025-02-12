@@ -71,6 +71,18 @@ For future use
 3. 🗣 Commented on [#77](https://github.com/vllm-project/production-stack/issues/77#issuecomment-2646496784) in [vllm-project/production-stack](https://github.com/vllm-project/production-stack)
 <!--END_SECTION:activity-->
 
+
+## 🤝 Recent PR Contributions
+
+- 🔄 Merged PR [#94](https://github.com/vllm-project/production-stack/pull/94) in `vllm-project/production-stack` - [CI/Build] : add GitHub Actions workflows for router (#74) (2025-02-09)
+- 🔄 Merged PR [#62](https://github.com/GoogleCloudPlatform/khi/pull/62) in `GoogleCloudPlatform/khi` - feat(dev): add development container configuration (#54) (2025-02-10)
+- 🔄 Merged PR [#3655](https://github.com/eclipse-jkube/jkube/pull/3655) in `eclipse-jkube/jkube` - #3612 remove unnecessary semicolon in config test (2025-02-03)
+- 🔄 Merged PR [#1954](https://github.com/open-telemetry/opentelemetry-demo/pull/1954) in `open-telemetry/opentelemetry-demo` - Generate protobuf code for TypeScript service - Frontend (2025-01-28)
+- 🔄 Merged PR [#1842](https://github.com/open-telemetry/opentelemetry-demo/pull/1842) in `open-telemetry/opentelemetry-demo` - [shipping] rename shippingservice to shipping (2024-12-19)
+- 🔄 Merged PR [#1832](https://github.com/open-telemetry/opentelemetry-demo/pull/1832) in `open-telemetry/opentelemetry-demo` - [ad] rename adService to ad (2024-12-19)
+- 🔄 Merged PR [#91616](https://github.com/firstcontributions/first-contributions/pull/91616) in `firstcontributions/first-contributions` - Add Sozhan to Contributors list (2024-12-03)
+
+
 <br/>
 
 
