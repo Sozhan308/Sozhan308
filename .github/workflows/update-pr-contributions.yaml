@@ -2,10 +2,14 @@ name: Update PR Contributions
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Runs weekly
+    - cron: '0 0 * * 0'
   workflow_dispatch:
   pull_request:
     types: [closed]
+
+permissions:
+  contents: write
+  pull-requests: read
 
 jobs:
   update-contributions:
@@ -44,25 +48,35 @@ jobs:
               name: context.repo.repo
             });
             
-            // Read existing README
             let readme = fs.readFileSync('README.md', 'utf8');
             
             // Generate PR list
-            let prSection = '';
+            let prSection = '\n## 🤝 Recent PR Contributions\n\n';
             const prs = result.repository.pullRequests.nodes;
             prs.forEach(pr => {
               const date = new Date(pr.mergedAt).toISOString().split('T')[0];
               prSection += `- 🔄 Merged PR [#${pr.number}](${pr.url}) in \`${pr.repository.nameWithOwner}\` - ${pr.title} (${date})\n`;
             });
             
-            // Find the PR contributions section and update it
-            const prSectionRegex = /## 🤝 Recent PR Contributions\n\n([\s\S]*?)(?=\n\n<!--)/;
-            const updatedContent = readme.replace(
-              prSectionRegex,
-              `## 🤝 Recent PR Contributions\n\n${prSection}\n`
-            );
+            // Find the position after Recent Activity section
+            const activityMarker = '### ✨ My Recent Activity';
+            const endActivityMarker = '<!--END_SECTION:activity-->';
             
-            fs.writeFileSync('README.md', updatedContent);
+            const activityIndex = readme.indexOf(activityMarker);
+            const endActivityIndex = readme.indexOf(endActivityMarker);
+            
+            if (activityIndex !== -1 && endActivityIndex !== -1) {
+              // Split the README content
+              const beforeSection = readme.substring(0, endActivityIndex + endActivityMarker.length);
+              const afterSection = readme.substring(endActivityIndex + endActivityMarker.length);
+              
+              // Remove existing PR contributions section if it exists
+              const cleanedAfterSection = afterSection.replace(/\n## 🤝 Recent PR Contributions[\s\S]*?(?=\n##|$)/, '');
+              
+              // Combine the sections
+              const updatedReadme = beforeSection + '\n\n' + prSection + cleanedAfterSection;
+              fs.writeFileSync('README.md', updatedReadme);
+            }
 
       - name: Commit and Push Changes
         run: |
