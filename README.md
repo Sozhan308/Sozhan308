@@ -78,6 +78,3 @@ For future use
 - 🔄 Merged PR [#91616](https://github.com/firstcontributions/first-contributions/pull/91616) in `firstcontributions/first-contributions` - Add Sozhan to Contributors list (2024-12-03)
 
 
-<br/>
-
-
