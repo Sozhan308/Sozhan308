@@ -27,7 +27,6 @@ jobs:
           script: |
             const fs = require('fs');
             
-            // Modified query to fetch PRs across all repositories
             const query = `query($owner:String!) {
               user(login: $owner) {
                 pullRequests(first: 10, orderBy: {field: CREATED_AT, direction: DESC}, states: [MERGED]) {
@@ -49,11 +48,9 @@ jobs:
                 owner: context.repo.owner
               });
               
-              console.log('Query result:', JSON.stringify(result, null, 2));
-              
               let readme = fs.readFileSync('README.md', 'utf8');
               
-              // Generate PR list with error handling
+              // Generate PR list
               let prSection = '\n## 🤝 Recent PR Contributions\n\n';
               const prs = result.user.pullRequests.nodes;
               
@@ -66,25 +63,20 @@ jobs:
                 prSection += '- No merged PRs found in the last period\n';
               }
               
-              // Find the position after Recent Activity section
+              // Find the position after Recent Activity section and update
               const activityMarker = '<!--END_SECTION:activity-->';
               const activityIndex = readme.indexOf(activityMarker);
               
               if (activityIndex !== -1) {
-                // Split the README content
                 const beforeSection = readme.substring(0, activityIndex + activityMarker.length);
                 const afterSection = readme.substring(activityIndex + activityMarker.length);
                 
-                // Remove existing PR contributions section if it exists
+                // Remove existing PR section from after activity if it exists
                 const cleanedAfterSection = afterSection.replace(/\n## 🤝 Recent PR Contributions[\s\S]*?(?=\n##|$)/, '');
                 
-                // Combine the sections with proper spacing
+                // Add new PR section after activity
                 const updatedReadme = beforeSection + '\n\n' + prSection + cleanedAfterSection;
                 fs.writeFileSync('README.md', updatedReadme);
-                
-                console.log('README updated successfully');
-              } else {
-                console.log('Activity marker not found in README');
               }
             } catch (error) {
               console.error('Error occurred:', error);
