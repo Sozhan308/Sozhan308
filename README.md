@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sozhan Natarajan</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-
-## 🤝 Recent PR Contributions
-
-
-
 <!--
 **Sozhan308/Sozhan308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
