@@ -27,9 +27,10 @@ jobs:
           script: |
             const fs = require('fs');
             
-            const query = `query($owner:String!, $name:String!) {
-              repository(owner:$owner, name:$name) {
-                pullRequests(first:10, states:MERGED, orderBy:{field:CREATED_AT, direction:DESC}) {
+            // Modified query to fetch PRs across all repositories
+            const query = `query($owner:String!) {
+              user(login: $owner) {
+                pullRequests(first: 10, orderBy: {field: CREATED_AT, direction: DESC}, states: [MERGED]) {
                   nodes {
                     title
                     number
@@ -43,39 +44,51 @@ jobs:
               }
             }`;
             
-            const result = await github.graphql(query, {
-              owner: context.repo.owner,
-              name: context.repo.repo
-            });
-            
-            let readme = fs.readFileSync('README.md', 'utf8');
-            
-            // Generate PR list
-            let prSection = '\n## 🤝 Recent PR Contributions\n\n';
-            const prs = result.repository.pullRequests.nodes;
-            prs.forEach(pr => {
-              const date = new Date(pr.mergedAt).toISOString().split('T')[0];
-              prSection += `- 🔄 Merged PR [#${pr.number}](${pr.url}) in \`${pr.repository.nameWithOwner}\` - ${pr.title} (${date})\n`;
-            });
-            
-            // Find the position after Recent Activity section
-            const activityMarker = '### ✨ My Recent Activity';
-            const endActivityMarker = '<!--END_SECTION:activity-->';
-            
-            const activityIndex = readme.indexOf(activityMarker);
-            const endActivityIndex = readme.indexOf(endActivityMarker);
-            
-            if (activityIndex !== -1 && endActivityIndex !== -1) {
-              // Split the README content
-              const beforeSection = readme.substring(0, endActivityIndex + endActivityMarker.length);
-              const afterSection = readme.substring(endActivityIndex + endActivityMarker.length);
+            try {
+              const result = await github.graphql(query, {
+                owner: context.repo.owner
+              });
               
-              // Remove existing PR contributions section if it exists
-              const cleanedAfterSection = afterSection.replace(/\n## 🤝 Recent PR Contributions[\s\S]*?(?=\n##|$)/, '');
+              console.log('Query result:', JSON.stringify(result, null, 2));
               
-              // Combine the sections
-              const updatedReadme = beforeSection + '\n\n' + prSection + cleanedAfterSection;
-              fs.writeFileSync('README.md', updatedReadme);
+              let readme = fs.readFileSync('README.md', 'utf8');
+              
+              // Generate PR list with error handling
+              let prSection = '\n## 🤝 Recent PR Contributions\n\n';
+              const prs = result.user.pullRequests.nodes;
+              
+              if (prs && prs.length > 0) {
+                prs.forEach(pr => {
+                  const date = new Date(pr.mergedAt).toISOString().split('T')[0];
+                  prSection += `- 🔄 Merged PR [#${pr.number}](${pr.url}) in \`${pr.repository.nameWithOwner}\` - ${pr.title} (${date})\n`;
+                });
+              } else {
+                prSection += '- No merged PRs found in the last period\n';
+              }
+              
+              // Find the position after Recent Activity section
+              const activityMarker = '<!--END_SECTION:activity-->';
+              const activityIndex = readme.indexOf(activityMarker);
+              
+              if (activityIndex !== -1) {
+                // Split the README content
+                const beforeSection = readme.substring(0, activityIndex + activityMarker.length);
+                const afterSection = readme.substring(activityIndex + activityMarker.length);
+                
+                // Remove existing PR contributions section if it exists
+                const cleanedAfterSection = afterSection.replace(/\n## 🤝 Recent PR Contributions[\s\S]*?(?=\n##|$)/, '');
+                
+                // Combine the sections with proper spacing
+                const updatedReadme = beforeSection + '\n\n' + prSection + cleanedAfterSection;
+                fs.writeFileSync('README.md', updatedReadme);
+                
+                console.log('README updated successfully');
+              } else {
+                console.log('Activity marker not found in README');
+              }
+            } catch (error) {
+              console.error('Error occurred:', error);
+              core.setFailed(error.message);
             }
 
       - name: Commit and Push Changes
