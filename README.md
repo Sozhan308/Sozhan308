@@ -64,8 +64,6 @@ For future use
 1. ❌ Closed PR [#1](https://github.com/Sozhan308/production-stack/pull/1) in [Sozhan308/production-stack](https://github.com/Sozhan308/production-stack)
 2. 🗣 Commented on [#94](https://github.com/vllm-project/production-stack/pull/94#issuecomment-2646662143) in [vllm-project/production-stack](https://github.com/vllm-project/production-stack)
 3. 🗣 Commented on [#77](https://github.com/vllm-project/production-stack/issues/77#issuecomment-2646496784) in [vllm-project/production-stack](https://github.com/vllm-project/production-stack)
-4. 🗣 Commented on [#62](https://github.com/GoogleCloudPlatform/khi/pull/62#issuecomment-2646424177) in [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi)
-5. 🗣 Commented on [#94](https://github.com/vllm-project/production-stack/pull/94#issuecomment-2646396309) in [vllm-project/production-stack](https://github.com/vllm-project/production-stack)
 <!--END_SECTION:activity-->
 
 <br/>
