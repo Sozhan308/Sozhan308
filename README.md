@@ -67,7 +67,7 @@ For future use
 <!--END_SECTION:activity-->
 
 
-## 🤝 Recent PR Contributions
+### 🤝 Recent PR Contributions
 
 - 🔄 Merged PR [#94](https://github.com/vllm-project/production-stack/pull/94) in `vllm-project/production-stack` - [CI/Build] : add GitHub Actions workflows for router (#74) (2025-02-09)
 - 🔄 Merged PR [#62](https://github.com/GoogleCloudPlatform/khi/pull/62) in `GoogleCloudPlatform/khi` - feat(dev): add development container configuration (#54) (2025-02-10)
