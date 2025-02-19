@@ -61,9 +61,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/BuildCLI/BuildCLI/pull/209#issuecomment-2661344132) in [BuildCLI/BuildCLI](https://github.com/BuildCLI/BuildCLI)
-2. 💪 Opened PR [#209](https://github.com/BuildCLI/BuildCLI/pull/209) in [BuildCLI/BuildCLI](https://github.com/BuildCLI/BuildCLI)
-3. 🗣 Commented on [#14](https://github.com/tetsuo-ai/AgenC/issues/14#issuecomment-2660027015) in [tetsuo-ai/AgenC](https://github.com/tetsuo-ai/AgenC)
+1. 🗣 Commented on [#209](https://github.com/BuildCLI/BuildCLI/pull/209#issuecomment-2661890074) in [BuildCLI/BuildCLI](https://github.com/BuildCLI/BuildCLI)
+2. 💪 Opened PR [#1](https://github.com/Sozhan308/BuildCLI/pull/1) in [Sozhan308/BuildCLI](https://github.com/Sozhan308/BuildCLI)
+3. 🗣 Commented on [#15](https://github.com/tetsuo-ai/AgenC/pull/15#issuecomment-2661839480) in [tetsuo-ai/AgenC](https://github.com/tetsuo-ai/AgenC)
 <!--END_SECTION:activity-->
 
 
