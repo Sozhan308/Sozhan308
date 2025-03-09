@@ -61,9 +61,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/pandoc/dockerfiles/pull/263#issuecomment-2691097990) in [pandoc/dockerfiles](https://github.com/pandoc/dockerfiles)
-2. 🗣 Commented on [#260](https://github.com/pandoc/dockerfiles/pull/260#issuecomment-2685682514) in [pandoc/dockerfiles](https://github.com/pandoc/dockerfiles)
-3. 💪 Opened PR [#263](https://github.com/pandoc/dockerfiles/pull/263) in [pandoc/dockerfiles](https://github.com/pandoc/dockerfiles)
+1. ❌ Closed PR [#1](https://github.com/Sozhan308/dockerfiles/pull/1) in [Sozhan308/dockerfiles](https://github.com/Sozhan308/dockerfiles)
+2. 🗣 Commented on [#263](https://github.com/pandoc/dockerfiles/pull/263#issuecomment-2691097990) in [pandoc/dockerfiles](https://github.com/pandoc/dockerfiles)
+3. 🗣 Commented on [#260](https://github.com/pandoc/dockerfiles/pull/260#issuecomment-2685682514) in [pandoc/dockerfiles](https://github.com/pandoc/dockerfiles)
 <!--END_SECTION:activity-->
 
 
