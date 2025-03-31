@@ -61,9 +61,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/lvps/389ds-server/issues/68#issuecomment-2757606954) in [lvps/389ds-server](https://github.com/lvps/389ds-server)
-2. 🗣 Commented on [#124](https://github.com/NCAR/tuv-x/issues/124#issuecomment-2756646886) in [NCAR/tuv-x](https://github.com/NCAR/tuv-x)
-3. ❌ Closed PR [#1](https://github.com/Sozhan308/dockerfiles/pull/1) in [Sozhan308/dockerfiles](https://github.com/Sozhan308/dockerfiles)
+1. 💪 Opened PR [#125](https://github.com/NCAR/tuv-x/pull/125) in [NCAR/tuv-x](https://github.com/NCAR/tuv-x)
+2. 💪 Opened PR [#71](https://github.com/lvps/389ds-server/pull/71) in [lvps/389ds-server](https://github.com/lvps/389ds-server)
+3. 🗣 Commented on [#68](https://github.com/lvps/389ds-server/issues/68#issuecomment-2757606954) in [lvps/389ds-server](https://github.com/lvps/389ds-server)
 <!--END_SECTION:activity-->
 
 
