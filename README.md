@@ -29,12 +29,78 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: **🎢 I once debugged an issue while I was in a dream**
 
+## Skills
+
 ---
 
- **<h3 align="left">Skills</h3>**
+#### **Programming Languages:**
 
+[<img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Shell-00A099?style=for-the-badge&logo=shell&logoColor=white" />]()
+&nbsp;
+
+---
+
+#### **Containerization and Orchestration:**
+
+[<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Helm-003366?style=for-the-badge&logo=helm&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Vault-FFCF25?style=for-the-badge&logo=vault&logoColor=white" />]()
+&nbsp;
+
+---
+
+#### **CI/CD:**
+
+[<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Jenkins-d33834?style=for-the-badge&logo=jenkins&logoColor=white" />]()
+&nbsp;
+
+---
+
+#### **Cloud:**
+
+[<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />]()
+&nbsp;
+
+---
+
+#### **IaC:**
+
+[<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />]()
+&nbsp;
+
+---
+
+#### **Databases:**
+
+[<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />]()
+&nbsp;
+
+---
+
+#### **IDE:**
+
+[<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />]()
+&nbsp;
+
+---
+
+#### **Observability:**
+
+[<img src="https://img.shields.io/badge/Grafana-fc1c5b?style=for-the-badge&logo=grafana&logoColor=white" />]()
+&nbsp;
+
+---
+
+<!--
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="32" alt="Kubernetes" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Github_Actions-232F3E?logo=Github-Actions&logoColor=Red" height="32" alt="Github Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" height="32" alt="Terraform" style="margin-right: 4px"> <img src="https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white" height="32" alt="Amazon AWS" style="margin-right: 4px"></div>
-
+-->
 
 ---
 
