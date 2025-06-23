@@ -128,7 +128,7 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/NCAR/tuv-x/pull/125) in [NCAR/tuv-x](https://github.com/NCAR/tuv-x)
+1. 🗣 Commented on [#1650](https://github.com/karakeep-app/karakeep/issues/1650#issuecomment-2993706180) in [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
 2. 💪 Opened PR [#71](https://github.com/lvps/389ds-server/pull/71) in [lvps/389ds-server](https://github.com/lvps/389ds-server)
 3. 🗣 Commented on [#68](https://github.com/lvps/389ds-server/issues/68#issuecomment-2757606954) in [lvps/389ds-server](https://github.com/lvps/389ds-server)
 <!--END_SECTION:activity-->
