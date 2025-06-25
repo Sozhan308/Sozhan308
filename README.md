@@ -128,9 +128,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1650](https://github.com/karakeep-app/karakeep/issues/1650#issuecomment-2993706180) in [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
-2. 💪 Opened PR [#71](https://github.com/lvps/389ds-server/pull/71) in [lvps/389ds-server](https://github.com/lvps/389ds-server)
-3. 🗣 Commented on [#68](https://github.com/lvps/389ds-server/issues/68#issuecomment-2757606954) in [lvps/389ds-server](https://github.com/lvps/389ds-server)
+1. ❌ Closed PR [#1](https://github.com/Sozhan308/karakeep/pull/1) in [Sozhan308/karakeep](https://github.com/Sozhan308/karakeep)
+2. 💪 Opened PR [#1](https://github.com/Sozhan308/karakeep/pull/1) in [Sozhan308/karakeep](https://github.com/Sozhan308/karakeep)
+3. 🎉 Merged PR [#1](https://github.com/Sozhan308/sozhan308.github.io/pull/1) in [Sozhan308/sozhan308.github.io](https://github.com/Sozhan308/sozhan308.github.io)
 <!--END_SECTION:activity-->
 
 
