@@ -136,6 +136,7 @@ For future use
 
 ## 🤝 Recent PR Contributions
 
+- 🔄 Merged PR [#1](https://github.com/Sozhan308/sozhan308.github.io/pull/1) in `Sozhan308/sozhan308.github.io` - Add dark/light theme toggle (2025-06-23)
 - 🔄 Merged PR [#125](https://github.com/NCAR/tuv-x/pull/125) in `NCAR/tuv-x` - [ci] Create workflow for closing stale issues #124 (2025-03-31)
 - 🔄 Merged PR [#71](https://github.com/lvps/389ds-server/pull/71) in `lvps/389ds-server` - [CI] Fix Ansible Lint + Molecule tests #68 (2025-04-01)
 - 🔄 Merged PR [#263](https://github.com/pandoc/dockerfiles/pull/263) in `pandoc/dockerfiles` - fix workflow syntax issue (2025-03-11)
@@ -145,6 +146,5 @@ For future use
 - 🔄 Merged PR [#260](https://github.com/pandoc/dockerfiles/pull/260) in `pandoc/dockerfiles` - ci: automate image builds based on freeze file changes (#257) (2025-02-13)
 - 🔄 Merged PR [#94](https://github.com/vllm-project/production-stack/pull/94) in `vllm-project/production-stack` - [CI/Build] : add GitHub Actions workflows for router (#74) (2025-02-09)
 - 🔄 Merged PR [#62](https://github.com/GoogleCloudPlatform/khi/pull/62) in `GoogleCloudPlatform/khi` - feat(dev): add development container configuration (#54) (2025-02-10)
-- 🔄 Merged PR [#3655](https://github.com/eclipse-jkube/jkube/pull/3655) in `eclipse-jkube/jkube` - #3612 remove unnecessary semicolon in config test (2025-02-03)
 
 
