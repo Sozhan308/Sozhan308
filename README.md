@@ -128,7 +128,7 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Sozhan308/karakeep/pull/1) in [Sozhan308/karakeep](https://github.com/Sozhan308/karakeep)
+1. ❗ Opened issue [#2](https://github.com/Sozhan308/sozhan308.github.io/issues/2) in [Sozhan308/sozhan308.github.io](https://github.com/Sozhan308/sozhan308.github.io)
 2. 💪 Opened PR [#1](https://github.com/Sozhan308/karakeep/pull/1) in [Sozhan308/karakeep](https://github.com/Sozhan308/karakeep)
 3. 🎉 Merged PR [#1](https://github.com/Sozhan308/sozhan308.github.io/pull/1) in [Sozhan308/sozhan308.github.io](https://github.com/Sozhan308/sozhan308.github.io)
 <!--END_SECTION:activity-->
