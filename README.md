@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sozhan Natarajan</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps + GenAI Engineer from India</h3>
 
 <!--
 **Sozhan308/Sozhan308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 💼 I’m currently working as a **Senior DevOps Engineer** at [Bosch](https://github.com/bosch)
 
-🌱 I'm currently learning: **📚 Exploring Gen AI RAG systems**
+🌱 I'm currently learning: **📚 Exploring MCP & Agentic AI systems**
 
-💬 Ask me about: **💡 Python, Docker, Kubernetes, Jenkins, Terraform, AWS**
+💬 Ask me about: **💡 Python, Docker, Kubernetes, Jenkins, AWS, Azure, Agentic AI, MCP**
 
 ⚡ Fun fact: **🎢 I once debugged an issue while I was in a dream**
 
