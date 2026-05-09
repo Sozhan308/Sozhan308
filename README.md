@@ -128,9 +128,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#131](https://github.com/IBM/ELM-Python-Client/issues/131) in [IBM/ELM-Python-Client](https://github.com/IBM/ELM-Python-Client)
-2. 🔒 Closed issue [#207](https://github.com/metatool-ai/metamcp/issues/207) in [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp)
-3. 🎉 Merged PR [#1](https://github.com/Sozhan308/sozhan308.github.io/pull/1) in [Sozhan308/sozhan308.github.io](https://github.com/Sozhan308/sozhan308.github.io)
+1. ❗ Opened issue [#4104](https://github.com/PrefectHQ/fastmcp/issues/4104) in [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
+2. ℹ️ Labeled issue [#4104](https://github.com/PrefectHQ/fastmcp/issues/4104) in [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
+3. ❗ Opened issue [#131](https://github.com/IBM/ELM-Python-Client/issues/131) in [IBM/ELM-Python-Client](https://github.com/IBM/ELM-Python-Client)
 <!--END_SECTION:activity-->
 
 
