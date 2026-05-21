@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sozhan Natarajan</h1>
-<h3 align="center">A passionate DevOps + GenAI Engineer from India</h3>
+<h3 align="center">A passionate DevOps & GenAI Engineer from India</h3>
 
 <!--
 **Sozhan308/Sozhan308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-💼 I’m currently working as a **Senior DevOps Engineer** at [Bosch](https://github.com/bosch)
+💼 I’m currently working as a **Senior Engineer (Gen AI)** at [Bosch](https://github.com/bosch)
 
-🌱 I'm currently learning: **📚 Exploring MCP & Agentic AI systems**
+🌱 I'm currently learning: **📚 Exploring AI security**
 
 💬 Ask me about: **💡 Python, Docker, Kubernetes, Jenkins, AWS, Azure, Agentic AI, MCP**
 
