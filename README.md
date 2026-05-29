@@ -128,9 +128,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4104](https://github.com/PrefectHQ/fastmcp/issues/4104) in [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
-2. ℹ️ Labeled issue [#4104](https://github.com/PrefectHQ/fastmcp/issues/4104) in [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
-3. ❗ Opened issue [#131](https://github.com/IBM/ELM-Python-Client/issues/131) in [IBM/ELM-Python-Client](https://github.com/IBM/ELM-Python-Client)
+1. 🔒 Closed issue [#2](https://github.com/Sozhan308/sozhan308.github.io/issues/2) in [Sozhan308/sozhan308.github.io](https://github.com/Sozhan308/sozhan308.github.io)
+2. ❗ Opened issue [#4104](https://github.com/PrefectHQ/fastmcp/issues/4104) in [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
+3. ℹ️ Labeled issue [#4104](https://github.com/PrefectHQ/fastmcp/issues/4104) in [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
 <!--END_SECTION:activity-->
 
 
