@@ -128,8 +128,8 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/Sozhan308/sozhan308.github.io/issues/2) in [Sozhan308/sozhan308.github.io](https://github.com/Sozhan308/sozhan308.github.io)
-2. ❗ Opened issue [#4104](https://github.com/PrefectHQ/fastmcp/issues/4104) in [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
+1. ℹ️ Labeled issue [#4004](https://github.com/github/copilot-cli/issues/4004) in [github/copilot-cli](https://github.com/github/copilot-cli)
+2. ❗ Opened issue [#4004](https://github.com/github/copilot-cli/issues/4004) in [github/copilot-cli](https://github.com/github/copilot-cli)
 3. ℹ️ Labeled issue [#4104](https://github.com/PrefectHQ/fastmcp/issues/4104) in [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
 <!--END_SECTION:activity-->
 
