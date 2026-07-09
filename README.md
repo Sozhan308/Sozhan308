@@ -128,9 +128,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4004](https://github.com/github/copilot-cli/issues/4004) in [github/copilot-cli](https://github.com/github/copilot-cli)
-2. 🗣 Commented on [#2709](https://github.com/github/copilot-cli/issues/2709#issuecomment-4876548139) in [github/copilot-cli](https://github.com/github/copilot-cli)
-3. ℹ️ Labeled issue [#4004](https://github.com/github/copilot-cli/issues/4004) in [github/copilot-cli](https://github.com/github/copilot-cli)
+1. ℹ️ Labeled issue [#4042](https://github.com/github/copilot-cli/issues/4042) in [github/copilot-cli](https://github.com/github/copilot-cli)
+2. ❗ Opened issue [#4042](https://github.com/github/copilot-cli/issues/4042) in [github/copilot-cli](https://github.com/github/copilot-cli)
+3. 🔒 Closed issue [#4004](https://github.com/github/copilot-cli/issues/4004) in [github/copilot-cli](https://github.com/github/copilot-cli)
 <!--END_SECTION:activity-->
 
 
