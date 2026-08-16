@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 
 👨‍💻 About Me
 
-- I'm a Senior Engineer working on Generative AI and Agentic AI, with a strong background in DevOps, cloud, automation, and software engineering.
+I build things at the intersection of AI and Engineering.
 
-I enjoy building production-oriented AI systems that connect LLMs, agents, tools, enterprise systems, and infrastructure.
+Currently working on Agentic AI, LLM applications, MCP, and AI developer tooling, backed by several years of experience in DevOps, Cloud, Kubernetes, and CI/CD.
+
+My current focus is on building AI systems that are not just intelligent, but reliable, observable, scalable, and production-ready.
 
 💼 Currently working as a Senior Engineer (Gen AI) at Bosch
 
