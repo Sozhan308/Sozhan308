@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 👨‍💻 About Me
 
-I'm a Senior Engineer working on Generative AI and Agentic AI, with a strong background in DevOps, cloud, automation, and software engineering.
+- I'm a Senior Engineer working on Generative AI and Agentic AI, with a strong background in DevOps, cloud, automation, and software engineering.
 
 I enjoy building production-oriented AI systems that connect LLMs, agents, tools, enterprise systems, and infrastructure.
 
