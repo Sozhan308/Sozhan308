@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sozhan Natarajan</h1>
-<h3 align="center">A passionate DevOps & GenAI Engineer from India</h3>
+<h3 align="center">A passionate AI Engineer & DevOps Engineer building production-grade Agentic AI systems</h3>
 
 <!--
 **Sozhan308/Sozhan308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,22 +22,62 @@ Here are some ideas to get you started:
 
 <p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-💼 I’m currently working as a **Senior Engineer (Gen AI)** at [Bosch](https://github.com/bosch)
+👨‍💻 About Me
 
-🌱 I'm currently learning: **📚 Exploring AI security**
+I'm a Senior Engineer working on Generative AI and Agentic AI, with a strong background in DevOps, cloud, automation, and software engineering.
 
-💬 Ask me about: **💡 Python, Docker, Kubernetes, Jenkins, AWS, Azure, Agentic AI, MCP**
+I enjoy building production-oriented AI systems that connect LLMs, agents, tools, enterprise systems, and infrastructure.
 
-⚡ Fun fact: **🎢 I once debugged an issue while I was in a dream**
+💼 Currently working as a Senior Engineer (Gen AI) at Bosch
+
+🤖 Working with Agentic AI, MCP servers, AI agents, LLM applications, and AI engineering tooling
+
+☁️ Strong background in DevOps, Cloud, Kubernetes, CI/CD, and Infrastructure Automation
+
+🐍 Building AI and automation solutions using Python and FastAPI
+
+🌱 Currently exploring Agentic AI, LLM Evaluation, and AI Platform Engineering
+
+💡 Interested in building reliable, observable, scalable AI applications
 
 ### Skills
 
 ---
 
-#### **Programming Languages:**
+#### LLM & AI Application Development
 
 [<img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Shell-00A099?style=for-the-badge&logo=shell&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Context%20Engineering-5E5CE6?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Tool%20Calling-FF6F00?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Structured%20Outputs-00897B?style=for-the-badge" />]()
+&nbsp;
+
+---
+
+#### Agentic AI
+
+[<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Agentic%20AI-7B61FF?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Multi--Agent%20Systems-4527A0?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Tool%20Orchestration-00897B?style=for-the-badge" />]()
+&nbsp;
+
+---
+
+#### RAG & Knowledge Systems
+
+[<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Agentic%20RAG-2E7D32?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Embeddings-1565C0?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Vector%20Search-1976D2?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Semantic%20Search-0277BD?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Hybrid%20Search-00838F?style=for-the-badge" />]()
+[<img src="https://img.shields.io/badge/Reranking-00695C?style=for-the-badge" />]()
 &nbsp;
 
 ---
@@ -63,6 +103,7 @@ Here are some ideas to get you started:
 #### **Cloud:**
 
 [<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />]()
 &nbsp;
 
 ---
@@ -76,8 +117,8 @@ Here are some ideas to get you started:
 
 #### **Databases:**
 
-[<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />]()
 &nbsp;
@@ -95,6 +136,8 @@ Here are some ideas to get you started:
 #### **Observability:**
 
 [<img src="https://img.shields.io/badge/Grafana-fc1c5b?style=for-the-badge&logo=grafana&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge" />]()
 &nbsp;
 
 ---
