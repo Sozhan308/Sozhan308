@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sozhan Natarajan</h1>
-<h3 align="center">A passionate AI Engineer & DevOps Engineer building production-grade Agentic AI systems</h3>
+<h3 align="center">A passionate Gen AI & DevOps Engineer building production-grade Agentic AI systems</h3>
 
 <!--
 **Sozhan308/Sozhan308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
