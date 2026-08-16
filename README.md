@@ -28,17 +28,13 @@ I build things at the intersection of AI and Engineering.
 
 Currently working on Agentic AI, LLM applications, MCP, and AI developer tooling, backed by several years of experience in DevOps, Cloud, Kubernetes, and CI/CD.
 
-My current focus is on building AI systems that are not just intelligent, but reliable, observable, scalable, and production-ready.
+My focus is on building AI systems that are reliable, observable, scalable, and production-ready.
 
-💼 Currently working as a Senior Engineer (Gen AI) at Bosch
+💼 Senior Engineer (Gen AI) @ Bosch
 
-🤖 Working with Agentic AI, MCP servers, AI agents, LLM applications, and AI engineering tooling
+🌱 Exploring: Agentic AI · LLM Evaluation · AI Platform Engineering
 
-☁️ Strong background in DevOps, Cloud, Kubernetes, CI/CD, and Infrastructure Automation
-
-🐍 Building AI and automation solutions using Python and FastAPI
-
-🌱 Currently exploring Agentic AI, LLM Evaluation, and AI Platform Engineering
+🐍 Building with: Python · FastAPI · LangChain · LangGraph · RAG · MCP
 
 💡 Interested in building reliable, observable, scalable AI applications
 
