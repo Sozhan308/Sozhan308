@@ -169,9 +169,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Abhinivesh2729/Thinai/pull/9) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
-2. ❗ Opened issue [#8](https://github.com/Abhinivesh2729/Thinai/issues/8) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
-3. 🔒 Closed issue [#4004](https://github.com/github/copilot-cli/issues/4004) in [github/copilot-cli](https://github.com/github/copilot-cli)
+1. 🎉 Merged PR [#9](https://github.com/Abhinivesh2729/Thinai/pull/9) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
+2. 💪 Opened PR [#9](https://github.com/Abhinivesh2729/Thinai/pull/9) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
+3. ❗ Opened issue [#8](https://github.com/Abhinivesh2729/Thinai/issues/8) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
 <!--END_SECTION:activity-->
 
 
