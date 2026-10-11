@@ -177,6 +177,7 @@ For future use
 
 ## 🤝 Recent PR Contributions
 
+- 🔄 Merged PR [#9](https://github.com/Abhinivesh2729/Thinai/pull/9) in `Abhinivesh2729/Thinai` - chore: clone URL update in docs (#8) (2026-10-07)
 - 🔄 Merged PR [#1](https://github.com/Sozhan308/sozhan308.github.io/pull/1) in `Sozhan308/sozhan308.github.io` - Add dark/light theme toggle (2025-06-23)
 - 🔄 Merged PR [#125](https://github.com/NCAR/tuv-x/pull/125) in `NCAR/tuv-x` - [ci] Create workflow for closing stale issues #124 (2025-03-31)
 - 🔄 Merged PR [#71](https://github.com/lvps/389ds-server/pull/71) in `lvps/389ds-server` - [CI] Fix Ansible Lint + Molecule tests #68 (2025-04-01)
@@ -186,6 +187,5 @@ For future use
 - 🔄 Merged PR [#209](https://github.com/BuildCLI/BuildCLI/pull/209) in `BuildCLI/BuildCLI` - Add workflow to enforce PRs to Develop Branch for External Contributo… (2025-02-18)
 - 🔄 Merged PR [#260](https://github.com/pandoc/dockerfiles/pull/260) in `pandoc/dockerfiles` - ci: automate image builds based on freeze file changes (#257) (2025-02-13)
 - 🔄 Merged PR [#94](https://github.com/vllm-project/production-stack/pull/94) in `vllm-project/production-stack` - [CI/Build] : add GitHub Actions workflows for router (#74) (2025-02-09)
-- 🔄 Merged PR [#62](https://github.com/GoogleCloudPlatform/khi/pull/62) in `GoogleCloudPlatform/khi` - feat(dev): add development container configuration (#54) (2025-02-10)
 
 
