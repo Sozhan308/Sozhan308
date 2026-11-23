@@ -169,8 +169,8 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Abhinivesh2729/Thinai/pull/9) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
-2. 💪 Opened PR [#9](https://github.com/Abhinivesh2729/Thinai/pull/9) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
+1. 🎉 Merged PR [#1](https://github.com/mashumshaik/ibm_bobathon/pull/1) in [mashumshaik/ibm_bobathon](https://github.com/mashumshaik/ibm_bobathon)
+2. 💪 Opened PR [#1](https://github.com/mashumshaik/ibm_bobathon/pull/1) in [mashumshaik/ibm_bobathon](https://github.com/mashumshaik/ibm_bobathon)
 3. ❗ Opened issue [#8](https://github.com/Abhinivesh2729/Thinai/issues/8) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
 <!--END_SECTION:activity-->
 
