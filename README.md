@@ -169,9 +169,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mashumshaik/ibm_bobathon/pull/1) in [mashumshaik/ibm_bobathon](https://github.com/mashumshaik/ibm_bobathon)
-2. 💪 Opened PR [#1](https://github.com/mashumshaik/ibm_bobathon/pull/1) in [mashumshaik/ibm_bobathon](https://github.com/mashumshaik/ibm_bobathon)
-3. ❗ Opened issue [#8](https://github.com/Abhinivesh2729/Thinai/issues/8) in [Abhinivesh2729/Thinai](https://github.com/Abhinivesh2729/Thinai)
+1. ❗ Opened issue [#3](https://github.com/Sozhan308/virtual-universe-26/issues/3) in [Sozhan308/virtual-universe-26](https://github.com/Sozhan308/virtual-universe-26)
+2. 💪 Opened PR [#2](https://github.com/Sozhan308/virtual-universe-26/pull/2) in [Sozhan308/virtual-universe-26](https://github.com/Sozhan308/virtual-universe-26)
+3. ❗ Opened issue [#1](https://github.com/Sozhan308/virtual-universe-26/issues/1) in [Sozhan308/virtual-universe-26](https://github.com/Sozhan308/virtual-universe-26)
 <!--END_SECTION:activity-->
 
 
