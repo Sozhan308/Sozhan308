@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-<p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/sozhan-natarajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/sozhan308" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/sozhan803" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sozhan308" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://sozhan308.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-sozhan308.github.io-0e75b6?style=for-the-badge&logo=astro&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+🌐 **Portfolio & writing:** [sozhan308.github.io](https://sozhan308.github.io) · [Projects](https://sozhan308.github.io/projects/) · [Writing](https://sozhan308.github.io/writing/) · [Notes](https://sozhan308.github.io/notes/) · [Now](https://sozhan308.github.io/now/)
 
 👨‍💻 About Me
 
@@ -37,6 +39,19 @@ My focus is on building AI systems that are reliable, observable, scalable, and 
 🐍 Building with: Python · FastAPI · LangChain · LangGraph · RAG · MCP
 
 💡 Interested in building reliable, observable, scalable AI applications
+
+### 🚀 Featured Projects
+
+Case studies and write-ups live on my site, [sozhan308.github.io](https://sozhan308.github.io).
+
+| Project | What it is |
+|:--|:--|
+| [My Stock Screener](https://sozhan308.github.io/projects/my-stock-screener/) ([repo](https://github.com/Sozhan308/my-stock-screener-app)) | Python, FastAPI and React app that screens NSE equities against a configurable Minervini Trend Template, with scheduled GitHub Actions scans |
+| [LLM Zoomcamp: from RAG to agentic RAG](https://sozhan308.github.io/projects/llm-zoomcamp-2026/) ([repo](https://github.com/Sozhan308/llm-zoomcamp-2026)) | RAG and agentic RAG over the DataTalksClub FAQ, with vector search and a dlt + Qdrant ingestion pipeline |
+| [Agentic workflows on GitHub Actions](https://sozhan308.github.io/projects/agentic-workflows/) ([repo](https://github.com/Sozhan308/my-agentic-workflows)) | Practice with GitHub Agentic Workflows (gh-aw): Markdown-defined agents that write only through sanitised safe outputs |
+| [This website](https://sozhan308.github.io/projects/sozhan308-github-io/) ([repo](https://github.com/Sozhan308/sozhan308.github.io)) | Astro portfolio and blog with full-text search, diagrams, generated social cards and CI-checked content, deployed via GitHub Pages |
+
+📝 **Latest note:** [Astro on GitHub Pages: four things that tripped me up](https://sozhan308.github.io/notes/astro-on-github-pages/)
 
 ### Skills
 
@@ -178,6 +193,7 @@ For future use
 ## 🤝 Recent PR Contributions
 
 - 🔄 Merged PR [#9](https://github.com/Abhinivesh2729/Thinai/pull/9) in `Abhinivesh2729/Thinai` - chore: clone URL update in docs (#8) (2026-10-07)
+- 🔄 Merged PR [#3](https://github.com/Sozhan308/sozhan308.github.io/pull/3) in `Sozhan308/sozhan308.github.io` - Rebuild the site with Astro as an engineering portfolio (2026-11-28)
 - 🔄 Merged PR [#1](https://github.com/Sozhan308/sozhan308.github.io/pull/1) in `Sozhan308/sozhan308.github.io` - Add dark/light theme toggle (2025-06-23)
 - 🔄 Merged PR [#125](https://github.com/NCAR/tuv-x/pull/125) in `NCAR/tuv-x` - [ci] Create workflow for closing stale issues #124 (2025-03-31)
 - 🔄 Merged PR [#71](https://github.com/lvps/389ds-server/pull/71) in `lvps/389ds-server` - [CI] Fix Ansible Lint + Molecule tests #68 (2025-04-01)
